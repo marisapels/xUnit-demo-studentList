@@ -1,0 +1,8 @@
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Services/bin/Debug/netcoreapp2.0/StudentList.Services.deps.json
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Services/bin/Debug/netcoreapp2.0/StudentList.Services.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Services/bin/Debug/netcoreapp2.0/StudentList.Services.pdb
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Services/obj/Debug/netcoreapp2.0/StudentList.Services.csproj.CoreCompileInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Services/obj/Debug/netcoreapp2.0/StudentList.Services.AssemblyInfoInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Services/obj/Debug/netcoreapp2.0/StudentList.Services.AssemblyInfo.cs
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Services/obj/Debug/netcoreapp2.0/StudentList.Services.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Services/obj/Debug/netcoreapp2.0/StudentList.Services.pdb

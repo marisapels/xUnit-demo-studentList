@@ -1,0 +1,15 @@
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Tests/bin/Debug/netcoreapp2.0/StudentList.Tests.deps.json
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Tests/bin/Debug/netcoreapp2.0/StudentList.Tests.runtimeconfig.json
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Tests/bin/Debug/netcoreapp2.0/StudentList.Tests.runtimeconfig.dev.json
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Tests/bin/Debug/netcoreapp2.0/StudentList.Tests.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Tests/bin/Debug/netcoreapp2.0/StudentList.Tests.pdb
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Tests/obj/Debug/netcoreapp2.0/StudentList.Tests.csproj.CoreCompileInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Tests/obj/Debug/netcoreapp2.0/StudentList.Tests.AssemblyInfoInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Tests/obj/Debug/netcoreapp2.0/StudentList.Tests.AssemblyInfo.cs
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Tests/obj/Debug/netcoreapp2.0/StudentList.Tests.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Tests/obj/Debug/netcoreapp2.0/StudentList.Tests.pdb
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Tests/bin/Debug/netcoreapp2.0/StudentList.Services.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/student-list-xunit/StudentList.Tests/bin/Debug/netcoreapp2.0/StudentList.Services.pdb
